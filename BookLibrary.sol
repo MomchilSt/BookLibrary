@@ -1,8 +1,6 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.0;
 
-// ABI coder v2 is activated by default since solc 0.8.0
-
 import "./Ownable.sol";
 
 contract BookLibrary is Ownable{
